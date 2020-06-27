@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61377" started-at="2020-06-19T22:25:51 IST" finished-at="2020-06-19T22:26:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61377" started-at="2020-06-19T22:25:51 IST" finished-at="2020-06-19T22:26:52 IST">
+      <class name="com.krn.actitime.task.CreateCustomer">
+        <test-method status="PASS" signature="openBrower()[pri:0, instance:com.krn.actitime.task.CreateCustomer@71bbf57e]" name="openBrower" is-config="true" duration-ms="11106" started-at="2020-06-19T22:25:51 IST" finished-at="2020-06-19T22:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.krn.actitime.task.CreateCustomer@71bbf57e]" name="login" is-config="true" duration-ms="643" started-at="2020-06-19T22:26:02 IST" finished-at="2020-06-19T22:26:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.krn.actitime.task.CreateCustomer@71bbf57e]" name="createCustomer" duration-ms="15680" started-at="2020-06-19T22:26:03 IST" finished-at="2020-06-19T22:26:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="loginOut()[pri:0, instance:com.krn.actitime.task.CreateCustomer@71bbf57e]" name="loginOut" is-config="true" duration-ms="2806" started-at="2020-06-19T22:26:18 IST" finished-at="2020-06-19T22:26:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOut -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.krn.actitime.task.CreateCustomer@71bbf57e]" name="closeBrower" is-config="true" duration-ms="120" started-at="2020-06-19T22:26:21 IST" finished-at="2020-06-19T22:26:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.krn.actitime.task.CreateCustomer -->
+      <class name="com.krn.actitime.task.DeleteCustomer">
+        <test-method status="PASS" signature="openBrower()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@7f13d6e]" name="openBrower" is-config="true" duration-ms="9049" started-at="2020-06-19T22:26:21 IST" finished-at="2020-06-19T22:26:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@7f13d6e]" name="login" is-config="true" duration-ms="235" started-at="2020-06-19T22:26:30 IST" finished-at="2020-06-19T22:26:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@7f13d6e]" name="deleteCustomer" duration-ms="18910" started-at="2020-06-19T22:26:31 IST" finished-at="2020-06-19T22:26:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="loginOut()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@7f13d6e]" name="loginOut" is-config="true" duration-ms="2703" started-at="2020-06-19T22:26:49 IST" finished-at="2020-06-19T22:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOut -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@7f13d6e]" name="closeBrower" is-config="true" duration-ms="79" started-at="2020-06-19T22:26:52 IST" finished-at="2020-06-19T22:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.krn.actitime.task.DeleteCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

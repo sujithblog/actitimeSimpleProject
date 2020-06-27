@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55843" started-at="2020-06-19T18:22:28Z" finished-at="2020-06-19T18:23:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55843" started-at="2020-06-19T18:22:28Z" finished-at="2020-06-19T18:23:24Z">
+      <class name="com.krn.actitime.task.CreateCustomer">
+        <test-method status="PASS" signature="openBrower()[pri:0, instance:com.krn.actitime.task.CreateCustomer@6b0c2d26]" name="openBrower" is-config="true" duration-ms="8491" started-at="2020-06-19T23:52:28Z" finished-at="2020-06-19T23:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.krn.actitime.task.CreateCustomer@6b0c2d26]" name="login" is-config="true" duration-ms="704" started-at="2020-06-19T23:52:37Z" finished-at="2020-06-19T23:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.krn.actitime.task.CreateCustomer@6b0c2d26]" name="createCustomer" duration-ms="14936" started-at="2020-06-19T23:52:37Z" finished-at="2020-06-19T23:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="loginOut()[pri:0, instance:com.krn.actitime.task.CreateCustomer@6b0c2d26]" name="loginOut" is-config="true" duration-ms="2843" started-at="2020-06-19T23:52:52Z" finished-at="2020-06-19T23:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOut -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.krn.actitime.task.CreateCustomer@6b0c2d26]" name="closeBrower" is-config="true" duration-ms="117" started-at="2020-06-19T23:52:55Z" finished-at="2020-06-19T23:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.krn.actitime.task.CreateCustomer -->
+      <class name="com.krn.actitime.task.DeleteCustomer">
+        <test-method status="PASS" signature="openBrower()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@3d3fcdb0]" name="openBrower" is-config="true" duration-ms="8035" started-at="2020-06-19T23:52:55Z" finished-at="2020-06-19T23:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@3d3fcdb0]" name="login" is-config="true" duration-ms="279" started-at="2020-06-19T23:53:03Z" finished-at="2020-06-19T23:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@3d3fcdb0]" name="deleteCustomer" duration-ms="18061" started-at="2020-06-19T23:53:04Z" finished-at="2020-06-19T23:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="loginOut()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@3d3fcdb0]" name="loginOut" is-config="true" duration-ms="2249" started-at="2020-06-19T23:53:22Z" finished-at="2020-06-19T23:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOut -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.krn.actitime.task.DeleteCustomer@3d3fcdb0]" name="closeBrower" is-config="true" duration-ms="115" started-at="2020-06-19T23:53:24Z" finished-at="2020-06-19T23:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.krn.actitime.task.DeleteCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
